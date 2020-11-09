@@ -1,2 +1,5 @@
 # Matlab-Canopy_Photosynthesis
 Testbed for canopy scaling and modeling of Photosynthesis and GPP
+
+## Citation:
+Wu, J., S. P. Serbin, X. Xu, L. P. Albert, M. Chen, R. Meng, S. R. Saleska, and A. Rogers. 2017. The phenology of leaf quality and its within-canopy variation is essential for accurate modeling of photosynthesis in tropical evergreen forests. Global Change Biology 23:4814-4827.
